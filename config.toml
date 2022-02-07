@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hugosite-jz2jt.ondigitalocean.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme="contrast-hugo"
