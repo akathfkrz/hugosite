@@ -1,4 +1,3 @@
-baseURL = 'https://hugosite-jz2jt.ondigitalocean.app'
+baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme="contrast-hugo"
